@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+fichier/
+tmp/
+# secrets
+config.ini
