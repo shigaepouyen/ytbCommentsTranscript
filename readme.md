@@ -15,7 +15,7 @@ Ce projet est un **script Python** permettant de télécharger les commentaires 
 10. [Licence](#licence)
 
 ## Présentation du Projet
-`ytbComentsTranscript.py` automatise :
+`ytbcommentsTranscript.py` automatise :
 - la **récupération** des commentaires YouTube,  
 - la **détection** des réponses officielles de l’auteur·ice de la chaîne,  
 - le **téléchargement** et le **nettoyage** de la transcription (sans timecodes ni balises `<c>`),  
