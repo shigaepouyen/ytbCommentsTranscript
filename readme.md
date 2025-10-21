@@ -1,3 +1,5 @@
+![Status: Stable](https://img.shields.io/badge/status-Stable-brightgreen)
+
 # Rapport Commentaires & Transcriptions YouTube
 
 Ce projet est un **script Python** permettant de télécharger les commentaires d’une vidéo YouTube et sa transcription (priorité à la piste **FR**, fallback **EN**), puis de les organiser proprement dans des fichiers CSV/TXT.
